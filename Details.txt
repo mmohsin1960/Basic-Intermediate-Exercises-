@@ -1,0 +1,5 @@
+1) Convert Python Flask App to Dockerize container (Docker File)
+2) Requirement file (flask, Redis)
+3) Write a python code (app.py) .. calling redis port 6379
+4) Docker-compose.yml file 
+  redis and web service 
