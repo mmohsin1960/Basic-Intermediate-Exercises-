@@ -1,0 +1,7 @@
+To build image
+
+# docker build -t nginx-app .
+
+To run container
+
+# docker run --name docker-nginx-static -p 9000:80 -d nginx-app
